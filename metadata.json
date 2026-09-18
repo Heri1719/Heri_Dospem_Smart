@@ -1,0 +1,6 @@
+{
+  "name": "RisetFlow AI",
+  "description": "AI Research Assistant untuk membantu mahasiswa S1 dan S2 menyusun penelitian secara sistematis dari ide menjadi proposal penelitian dan draf Bab 1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
